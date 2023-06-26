@@ -1,6 +1,7 @@
-public class Count {
+public class Cheer {
 
-    public static void count() {
-        System.out.println("Hi");
+    public static void cheer() {
+        String name = "everyone";
+        System.out.println("Hi " + name);
     }
 }
