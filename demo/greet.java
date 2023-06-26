@@ -1,7 +1,8 @@
 public Class Greet {
 
     public static void greet(){
-        System.out.println("Hello Carter36th");
+        String name = "Cartererer"
+        System.out.println("Hello " + name);
         }
 
         }
